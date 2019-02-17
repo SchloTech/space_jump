@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 13602, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_LookDevContexts:
+  - m_Properties:
+    - floatValue: 0.6760563
+      intValue: 0
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: -1
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: -1
+  - m_Properties:
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: -1
+    - floatValue: 0
+      intValue: 0
+    - floatValue: 0
+      intValue: -1
+  m_LookDevProperties:
+  - m_Linked: 0
+    m_PropertyType: 1
+  - m_Linked: 1
+    m_PropertyType: 0
+  - m_Linked: 0
+    m_PropertyType: 0
+  - m_Linked: 0
+    m_PropertyType: 1
+  - m_Linked: 0
+    m_PropertyType: 0
+  m_Gizmo:
+    m_Point1: {x: -0.24259259, y: -0.37685183}
+    m_Point2: {x: 0.11481482, y: 0.05833334}
+    m_Center: {x: -0.063888885, y: -0.15925924}
+    m_Angle: 3.8291733
+    m_Length: 0.28156978
+    m_Plane: {x: 0.77278376, y: -0.6346694, z: -0.051704682, w: -0}
+    m_PlaneOrtho: {x: -0.63466936, y: -0.7727838, z: -0.16362129, w: -0}
+  m_LookDevMode: 3
+  m_EnableToneMap: 1
+  m_EnableShadowCubemap: 1
+  m_ExposureRange: 8
+  m_ShadowDistance: 0
+  m_ShowBalls: 0
+  m_ShowControlWindows: 1
+  m_RotateObjectMode: 0
+  m_EnvRotationSpeed: 1
+  m_RotateEnvMode: 0
+  m_ObjRotationSpeed: 1
+  m_AllowDifferentObjects: 0
+  m_CurrentContextEdition: 1
+  m_CurrentEditionContextIndex: 0
+  m_DualViewBlendFactor: 0
+  m_OriginalGameObject:
+  - {fileID: 100430, guid: 2ca50680d05a5ea4aaa36fec8542f856, type: 3}
+  - {fileID: 100430, guid: 2ca50680d05a5ea4aaa36fec8542f856, type: 3}
+  m_CameraState:
+  - m_Pivot:
+      m_Target: {x: 0.517848, y: 8.78583, z: 1.5923543}
+      speed: 2
+      m_Value: {x: 0.517848, y: 8.78583, z: 1.5923543}
+    m_Rotation:
+      m_Target: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+      speed: 2
+      m_Value: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+    m_ViewSize:
+      m_Target: 90.04436
+      speed: 2
+      m_Value: 90.04436
+  - m_Pivot:
+      m_Target: {x: 0.517848, y: 8.78583, z: 1.5923543}
+      speed: 2
+      m_Value: {x: 0.517848, y: 8.78583, z: 1.5923543}
+    m_Rotation:
+      m_Target: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+      speed: 2
+      m_Value: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+    m_ViewSize:
+      m_Target: 90.04436
+      speed: 2
+      m_Value: 90.04436
+  m_SideBySideCameraLinked: 0
+  m_CameraStateCommon:
+    m_Pivot:
+      m_Target: {x: 0.517848, y: 8.78583, z: 1.5923543}
+      speed: 2
+      m_Value: {x: 0.517848, y: 8.78583, z: 1.5923543}
+    m_Rotation:
+      m_Target: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+      speed: 2
+      m_Value: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+    m_ViewSize:
+      m_Target: 90.04436
+      speed: 2
+      m_Value: 90.04436
+  m_CameraStateLeft:
+    m_Pivot:
+      m_Target: {x: 0.517848, y: 8.78583, z: 1.5923543}
+      speed: 2
+      m_Value: {x: 0.517848, y: 8.78583, z: 1.5923543}
+    m_Rotation:
+      m_Target: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+      speed: 2
+      m_Value: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+    m_ViewSize:
+      m_Target: 90.04436
+      speed: 2
+      m_Value: 90.04436
+  m_CameraStateRight:
+    m_Pivot:
+      m_Target: {x: 0.517848, y: 8.78583, z: 1.5923543}
+      speed: 2
+      m_Value: {x: 0.517848, y: 8.78583, z: 1.5923543}
+    m_Rotation:
+      m_Target: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+      speed: 2
+      m_Value: {x: 0.0068979436, y: -0.9864052, z: 0.04293573, w: 0.15847334}
+    m_ViewSize:
+      m_Target: 90.04436
+      speed: 2
+      m_Value: 90.04436
